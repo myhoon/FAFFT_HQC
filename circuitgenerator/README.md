@@ -4,3 +4,7 @@ The `make_asm_code` directory includes code that optimizes the generated XOR seq
 
 ```bash
 python3 make_asm_code_txt.py v28.txt gft_mul_v28
+
+```
+
+The assembly files for $v_{17}$ through $v_{28}$, generated using the same method, are named gft_mul_vi.s.
