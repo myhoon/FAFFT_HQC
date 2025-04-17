@@ -3,10 +3,6 @@
 
 #include "run_config.h"
 
-#include "parameters.h"
-
-
-
 #if !defined(_M4_ASM_)
 #include "gft_mul_vi.h"
 // x 0x2e597
