@@ -1,6 +1,6 @@
 # Improved Frobenius FFT for Code-based Cryptography on Cortex-M4
 
-This is an implementation of HQC and BIKE paper *"Improved Frobenius FFT for Code-based Cryptography on Cortex-M4"*.
+This is an implementation of HQC and BIKE described in the paper *"Improved Frobenius FFT for Code-based Cryptography on Cortex-M4"*.
 
 ## Authors
 
